@@ -13,7 +13,7 @@ hi LineNr guifg=#747474 guibg=#1c1c1c
 hi CursorLineNr guifg=#b0b0b0 guibg=#2e2e2e
 
 " Comments
-hi Comment guifg=#d9a300
+hi Comment guifg=#d9a300 gui=italic
 
 " Syntax highlighting
 hi Constant guifg=#6daee1
