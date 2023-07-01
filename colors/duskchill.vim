@@ -25,6 +25,9 @@ hi Special guifg=#ffafaf
 hi Underlined guifg=#afafff
 hi Error guifg=#ff0000 guibg=#1c1c1c
 
+" Folded text
+hi Folded guibg=#282828 guifg=#707070
+
 " Status bar
 hi StatusLine guifg=#b0b0b0 guibg=#2e2e2e
 hi StatusLineNC guifg=#5a5a5a guibg=#2e2e2e
